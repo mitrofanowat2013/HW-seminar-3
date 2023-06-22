@@ -1,0 +1,15 @@
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\bin\Debug\net7.0\Задача 21.exe
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\bin\Debug\net7.0\Задача 21.deps.json
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\bin\Debug\net7.0\Задача 21.runtimeconfig.json
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\bin\Debug\net7.0\Задача 21.dll
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\bin\Debug\net7.0\Задача 21.pdb
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.csproj.AssemblyReference.cache
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfoInputs.cache
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfo.cs
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.csproj.CoreCompileInputs.cache
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.dll
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\refint\Задача 21.dll
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.pdb
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\Задача 21.genruntimeconfig.cache
+D:\Домашняя работа\4495\HW seminar 3\Задача 21\obj\Debug\net7.0\ref\Задача 21.dll
